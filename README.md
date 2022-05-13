@@ -1,1 +1,1 @@
-# Nesneye Yönelik Anliz Tasarım Dersi Proje Ödevi
+# Nesneye Yönelik Analiz Tasarım Dersi Proje Ödevi
