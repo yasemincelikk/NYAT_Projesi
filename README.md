@@ -1,1 +1,1 @@
-# NYAT_Projesi
+# Nesneye Yönelik Anliz Tasarım Dersi Proje Ödevi
